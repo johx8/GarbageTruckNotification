@@ -9,3 +9,4 @@
 flutter clean
 flutter pub get
 
+### Install any recommended plugins, SDKs, or dependencies suggested by Android Studio after opening the project.
