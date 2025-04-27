@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "950685154701",
+    "project_id": "garbage-noti",
+    "storage_bucket": "garbage-noti.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950685154701:android:9243301392ec7f913cd1c4",
+        "android_client_info": {
+          "package_name": "com.example.garbage_noti_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCysPjIgjkSvujeiSWEp2E03Ie66X2jdpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
